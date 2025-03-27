@@ -20,14 +20,14 @@ main{
 
 }
 body{
-    background-image: url('../imagens/fundo-madeira.jpg');
+    background-image: url('https://www.melhoresdestinos.com.br/wp-content/uploads/2020/09/lago-moraine-banff-canada3-820x546.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 section#telefone{
-    height: 622px;
+    height: 623px;
     width: 304px;
     position: absolute;
     top: 50%;
